@@ -1,4 +1,5 @@
 # Frontend Mentor - QR code component solution
+![](design/desktop-preview.jpg)
 
 Essa é uma solução para o [desafio QR code component do Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
@@ -26,8 +27,7 @@ Essa é uma solução para o [desafio QR code component do Frontend Mentor](http
 
 ### Links
 
-- Link do site: [qr-code-component](https://reynald-durans.github.io/qr-code-component/)
-<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
+- Link do site: [https://reynald-durans.github.io/qr-code-component/](https://reynald-durans.github.io/qr-code-component/)
 
 ## Meu processo
 
